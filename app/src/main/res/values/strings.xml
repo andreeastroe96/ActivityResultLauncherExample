@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name"> ActivityResultLauncherExample </string>
+    <string name="tvMainActivity"> Result value </string>
+    <string name="btnMainActivity"> Get result </string>
+    <string name="etHint"> Insert a String value </string>
+    <string name="btnSendData"> Send data </string>
+    <string name="errorMessageToast"> Invalid input</string>
+</resources>
